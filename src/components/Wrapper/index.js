@@ -9,6 +9,7 @@ const Wrapper = props => {
       <div className="row">
         {props.children}
       </div>
+      <hr />
       <h1 className="text-center">Happy Holidays!</h1>
     </div>
   )
