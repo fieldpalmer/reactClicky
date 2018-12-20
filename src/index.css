@@ -3,6 +3,10 @@
   font-family: sans-serif;
 }
 
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
 html, body, #root {
   padding: 0;
   margin: 0;

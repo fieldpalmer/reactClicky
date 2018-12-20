@@ -18,7 +18,7 @@ class App extends Component {
 
   componentDidMount = () => {
     this.shuffleCards();
-    console.log(this.state.reindeers);
+    // console.log(this.state.reindeers);
   };
 
   shuffleCards = () => {

@@ -7,10 +7,10 @@ const Scoreboard = props => (
       <div className="col-sm-12">
         <h5 className="text-center">{props.message}</h5>
       </div>
-      <div className="col-sm-12 col-md-3 offset-md-3">
+      <div className="col-sm-6 text-right">
         <h4>high score: {props.highScore}</h4>
       </div>
-      <div className="col-sm-12 col-md-3">
+      <div className="col-sm-6 text-left">
         <h4>your score: {props.currentScore}</h4>
       </div>
     </div>
