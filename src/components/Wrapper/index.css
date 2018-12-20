@@ -1,0 +1,12 @@
+.container {
+  padding: 1em;
+  background-color: red;
+  margin: 0 auto;
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+  height: 100%;
+}
+
+hr {
+  background-color: white;
+}

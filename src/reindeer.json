@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dasher",
+    "img": "dasher.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Dancer",
+    "img": "dancer.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Prancer",
+    "img": "prancer.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Vixen",
+    "img": "vixen.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Comet",
+    "img": "comet.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Cupid",
+    "img": "cupid.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Donner",
+    "img": "donner.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Blitzen",
+    "img": "blitzen.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Rudolph",
+    "img": "rudolph.png",
+    "clicked": false
+  }
+]

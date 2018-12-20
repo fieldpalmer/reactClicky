@@ -1,0 +1,5 @@
+.card {
+  min-width: 27%;
+  border: 4px solid rgb(28, 205, 28);
+  border-radius: 10px;
+}
